@@ -1,0 +1,18 @@
+{
+  "name": "hamza",
+  "version": "1.0.0",
+  "description": "trsohbet.glitch.me",
+  "main": "hamza.js",
+  "scripts": {
+    "start": "node hamza.js"
+  },
+  "engines": {
+    "node": "16.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.1.0",
+    "ytdl-core-discord": "^1.3.1"
+  }
+}
